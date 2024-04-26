@@ -4,6 +4,8 @@
 #define SERVO_PIN_2 10
 #define SERVO_PIN_3 11
 
+//Portas usadas
+
 Servo servo_1;
 Servo servo_2;
 Servo servo_3;
